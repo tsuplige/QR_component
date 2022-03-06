@@ -36,9 +36,10 @@ body p {
 .qr__bloc p {
   color: #7b879d;
 }
-.qr__bloc h3 {
+.qr__bloc h1 {
   color: #1f3251;
   font-weight: bolder;
+  font-size: 1.17em;
 }
 
 .attribution {
